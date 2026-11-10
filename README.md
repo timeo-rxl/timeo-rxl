@@ -15,10 +15,20 @@ I study finance at HEC Montréal and build things with code and AI — portfolio
 ## About me
 
 - 🎓 **B.A.A. @ HEC Montréal (2025–2029)** — first year, focused on market finance and investment strategy.
-- 📈 **Portfolio Analyst, PrepaInvest — CTTC 2026 semi-finalist.** I designed an asymmetric Barbell macro-tactical allocation: a defensive Shield (47%) and an offensive Spear (53%), with systematic/idiosyncratic Beta decomposition. Also +10.16% in the HEConomie market simulation.
+- 📈 **Portfolio Analyst, PrepaInvest — CTTC 2026 semi-finalist.** I designed an asymmetric Barbell macro-tactical allocation: a defensive Shield (47% — `$VOO`, `$LLY`, `$LMT`) and an offensive Spear (53% — `$NVDA`, `$DELL`, `$WDC`, `$GEV`, `$CLSK`), with systematic / idiosyncratic Beta decomposition in the spirit of OTPP and Lasse Heje Pedersen (*Efficiently Inefficient*). Also +10.16% in the HEConomie market simulation.
 - 🚀 **Co-Founder & Product Lead, Rallyo (Nexus)** — 3rd place, 54H Start-Up. An AI-powered social orchestrator that matches students into groups of 4–6 and assigns them to underused municipal sports fields in Montréal.
 - 🏦 **Montreal Investment Banking Showcase (MIBS) 2026** — GMMR Investment Group.
 - 💼 Previously at **Smiile** (B2B SaaS) and **Porsche**.
+- 🤖 **AI & automation:** vibe coding with Claude Code, GStack, multi-agent orchestration, and Playwright scripts.
+
+## Stack
+
+| Domain | Tools & technologies |
+| :--- | :--- |
+| **Quantitative finance & data** | Python (`pandas`, `numpy`, `yfinance`, `matplotlib`), advanced financial Excel, vectorised backtesting |
+| **AI & vibe coding** | Claude Code, GStack, structured prompt engineering, Groq / Mistral / DeepSeek APIs |
+| **Web & deployment** | React, TypeScript, HTML/CSS, Cloudflare Pages, GitHub Actions CI/CD |
+| **Scraping & automation** | Microsoft Playwright, Python web scraping |
 
 ## What I'm building
 
@@ -26,13 +36,10 @@ I study finance at HEC Montréal and build things with code and AI — portfolio
 
 | Project | What it does | Stack |
 |---|---|---|
-| **barbell-macro-backtester** | Backtests the PrepaInvest Barbell allocation (Shield / Spear), with Sharpe ratio, max drawdown and Beta decomposition | Python, yfinance, Streamlit |
+| **barbell-macro-backtester** | Backtests the PrepaInvest Barbell allocation (Shield / Spear) on real market data, with Sharpe ratio, max drawdown and Beta vs. SPY | Python, yfinance, pandas |
 | **rallyo-nexus-mvp** | Matching engine + web prototype for Rallyo: student pods of 4–6, booked onto Montréal sports fields | React / TypeScript, Cloudflare Pages |
+| **ats-quant-job-radar** | Scans career portals (`greenhouse.io`, `lever.co`, `ashbyhq.com`) for quant & AI internships aimed at 1st/2nd-year students (Jane Street FOCUS, Citadel Discover, Optiver, Big Tech) | Python, Playwright |
 | **equity-valuation-lassonde** | Scenario-based equity valuation model (Bear / Base / Bull), margin diagnostics and capital-allocation simulator | Python, pandas, Jupyter |
-
-## Stack
-
-`Python` `pandas` `numpy` `yfinance` `matplotlib` `Streamlit` `Excel` `React` `TypeScript` `Claude Code` `Playwright` `Cloudflare Pages` `GitHub Actions`
 
 ## Currently
 
