@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Timéo Rouxel 👋
 
-<!--
-**timeo-rxl/timeo-rxl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**B.A.A. student @ HEC Montréal | Quantitative Finance, Macro Strategy & AI**
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Timeo%20Rouxel-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timeo-rouxel)
+[![HEC Montréal](https://img.shields.io/badge/HEC%20Montr%C3%A9al-B.A.A.-C8102E)](https://www.hec.ca)
+[![Location](https://img.shields.io/badge/Montr%C3%A9al-QC-grey?logo=googlemaps&logoColor=white)](https://github.com/timeo-rxl)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I study finance at HEC Montréal and build things with code and AI — portfolios, backtesters, and products that get students off their screens and onto the field.
+
+🇫🇷 Français — I work in French and in English.
+
+---
+
+## About me
+
+- 🎓 **B.A.A. @ HEC Montréal (2025–2029)** — first year, focused on market finance and investment strategy.
+- 📈 **Portfolio Analyst, PrepaInvest — CTTC 2026 semi-finalist.** I designed an asymmetric Barbell macro-tactical allocation: a defensive Shield (47%) and an offensive Spear (53%), with systematic/idiosyncratic Beta decomposition. Also +10.16% in the HEConomie market simulation.
+- 🚀 **Co-Founder & Product Lead, Rallyo (Nexus)** — 3rd place, 54H Start-Up. An AI-powered social orchestrator that matches students into groups of 4–6 and assigns them to underused municipal sports fields in Montréal.
+- 🏦 **Montreal Investment Banking Showcase (MIBS) 2026** — GMMR Investment Group.
+- 💼 Previously at **Smiile** (B2B SaaS) and **Porsche**.
+
+## What I'm building
+
+> 🚧 These repositories are in progress — I publish them as they become real, working code, not placeholders.
+
+| Project | What it does | Stack |
+|---|---|---|
+| **barbell-macro-backtester** | Backtests the PrepaInvest Barbell allocation (Shield / Spear), with Sharpe ratio, max drawdown and Beta decomposition | Python, yfinance, Streamlit |
+| **rallyo-nexus-mvp** | Matching engine + web prototype for Rallyo: student pods of 4–6, booked onto Montréal sports fields | React / TypeScript, Cloudflare Pages |
+| **equity-valuation-lassonde** | Scenario-based equity valuation model (Bear / Base / Bull), margin diagnostics and capital-allocation simulator | Python, pandas, Jupyter |
+
+## Stack
+
+`Python` `pandas` `numpy` `yfinance` `matplotlib` `Streamlit` `Excel` `React` `TypeScript` `Claude Code` `Playwright` `Cloudflare Pages` `GitHub Actions`
+
+## Currently
+
+- 🔭 Learning: quantitative finance, reinforcement learning, agentic AI systems
+- 🌱 Focus: turning my CTTC and MIBS work into clean, reproducible code
+- 🎯 Summer 2027: looking for internships in quantitative finance, investment strategy and AI
+
+## Connect
+
+- 💼 [LinkedIn — Timéo Rouxel](https://www.linkedin.com/in/timeo-rouxel)
+- ✉️ [timeo.rouxel@hec.ca](mailto:timeo.rouxel@hec.ca)
+- 📍 Montréal, QC, Canada
