@@ -37,7 +37,7 @@ I study finance at HEC Montréal and build things with code and AI — portfolio
 | Project | What it does | Stack |
 |---|---|---|
 | [**barbell-macro-backtester**](https://github.com/timeo-rxl/barbell-macro-backtester) | Backtests the PrepaInvest Barbell allocation (Shield / Spear) on real market data, with Sharpe ratio, max drawdown and Beta vs. SPY | Python, yfinance, pandas |
-| **rallyo-nexus-mvp** | Matching engine + web prototype for Rallyo: student pods of 4–6, booked onto Montréal sports fields | React / TypeScript, Cloudflare Pages |
+| [**rallyo-nexus-mvp**](https://github.com/timeo-rxl/rallyo-nexus-mvp) | Matching engine + web prototype for Rallyo: student pods of 4–6, booked onto Montréal sports fields | Python, Streamlit |
 | **ats-quant-job-radar** | Scans career portals (`greenhouse.io`, `lever.co`, `ashbyhq.com`) for quant & AI internships aimed at 1st/2nd-year students (Jane Street FOCUS, Citadel Discover, Optiver, Big Tech) | Python, Playwright |
 | **equity-valuation-lassonde** | Scenario-based equity valuation model (Bear / Base / Bull), margin diagnostics and capital-allocation simulator | Python, pandas, Jupyter |
 
