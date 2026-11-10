@@ -1,1 +1,54 @@
-IyBIaSwgSSdtIFRpbcOpbyBSb3V4ZWwg8J+RiwoKKipCLkEuQS4gc3R1ZGVudCBAIEhFQyBNb250csOpYWwgfCBRdWFudGl0YXRpdmUgRmluYW5jZSwgTWFjcm8gU3RyYXRlZ3kgJiBBSSoqCgpbIVtMaW5rZWRJbl0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9MaW5rZWRJbi1UaW1lbyUyMFJvdXhlbC0wQTY2QzI/bG9nbz1saW5rZWRpbiZsb2dvQ29sb3I9d2hpdGUpXShodHRwczovL3d3dy5saW5rZWRpbi5jb20vaW4vdGltZW8tcm91eGVsKQpbIVtIRUMgTW9udHLDqWFsXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0hFQyUyME1vbnRyJUMzJUE5YWwtQi5BLkEuLUM4MTAyRSldKGh0dHBzOi8vd3d3LmhlYy5jYSkKWyFbTG9jYXRpb25dKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvTW9udHIlQzMlQTlhbC1RQy1ncmV5P2xvZ289Z29vZ2xlbWFwcyZsb2dvQ29sb3I9d2hpdGUpXShodHRwczovL2dpdGh1Yi5jb20vdGltZW8tcnhsKQoKSSBzdHVkeSBmaW5hbmNlIGF0IEhFQyBNb250csOpYWwgYW5kIGJ1aWxkIHRoaW5ncyB3aXRoIGNvZGUgYW5kIEFJIOKAlCBwb3J0Zm9saW9zLCBiYWNrdGVzdGVycywgYW5kIHByb2R1Y3RzIHRoYXQgZ2V0IHN0dWRlbnRzIG9mZiB0aGVpciBzY3JlZW5zIGFuZCBvbnRvIHRoZSBmaWVsZC4KCvCfh6vwn4e3IEZyYW7Dp2FpcyDigJQgSSB3b3JrIGluIEZyZW5jaCBhbmQgaW4gRW5nbGlzaC4KCi0tLQoKIyMgQWJvdXQgbWUKCi0g8J+OkyAqKkIuQS5BLiBAIEhFQyBNb250csOpYWwgKDIwMjXigJMyMDI5KSoqIOKAlCBmaXJzdCB5ZWFyLCBmb2N1c2VkIG9uIG1hcmtldCBmaW5hbmNlIGFuZCBpbnZlc3RtZW50IHN0cmF0ZWd5LgotIPCfk4ggKipQb3J0Zm9saW8gQW5hbHlzdCwgUHJlcGFJbnZlc3Qg4oCUIENUVEMgMjAyNiBzZW1pLWZpbmFsaXN0LioqIEkgZGVzaWduZWQgYW4gYXN5bW1ldHJpYyBCYXJiZWxsIG1hY3JvLXRhY3RpY2FsIGFsbG9jYXRpb246IGEgZGVmZW5zaXZlIFNoaWVsZCAoNDclIOKAlCBgJFZPT2AsIGAkTExZYCwgYCRMTVRgKSBhbmQgYW4gb2ZmZW5zaXZlIFNwZWFyICg1MyUg4oCUIGAkTlZEQWAsIGAkREVMTGAsIGAkV0RDYCwgYCRHRVZgLCBgJENMU0tgKSwgd2l0aCBzeXN0ZW1hdGljIC8gaWRpb3N5bmNyYXRpYyBCZXRhIGRlY29tcG9zaXRpb24gaW4gdGhlIHNwaXJpdCBvZiBPVFBQIGFuZCBMYXNzZSBIZWplIFBlZGVyc2VuICgqRWZmaWNpZW50bHkgSW5lZmZpY2llbnQqKS4gQWxzbyArMTAuMTYlIGluIHRoZSBIRUNvbm9taWUgbWFya2V0IHNpbXVsYXRpb24uCi0g8J+agCAqKkNvLUZvdW5kZXIgJiBQcm9kdWN0IExlYWQsIFJhbGx5byAoTmV4dXMpKiog4oCUIDNyZCBwbGFjZSwgNTRIIFN0YXJ0LVVwLiBBbiBBSS1wb3dlcmVkIHNvY2lhbCBvcmNoZXN0cmF0b3IgdGhhdCBtYXRjaGVzIHN0dWRlbnRzIGludG8gZ3JvdXBzIG9mIDTigJM2IGFuZCBhc3NpZ25zIHRoZW0gdG8gdW5kZXJ1c2VkIG11bmljaXBhbCBzcG9ydHMgZmllbGRzIGluIE1vbnRyw6lhbC4KLSDwn4+mICoqTW9udHJlYWwgSW52ZXN0bWVudCBCYW5raW5nIFNob3djYXNlIChNSUJTKSAyMDI2Kiog4oCUIEdNTVIgSW52ZXN0bWVudCBHcm91cC4KLSDwn5K8IFByZXZpb3VzbHkgYXQgKipTbWlpbGUqKiAoQjJCIFNhYVMpIGFuZCAqKlBvcnNjaGUqKi4KLSDwn6SWICoqQUkgJiBhdXRvbWF0aW9uOioqIHZpYmUgY29kaW5nIHdpdGggQ2xhdWRlIENvZGUsIEdTdGFjaywgbXVsdGktYWdlbnQgb3JjaGVzdHJhdGlvbiwgYW5kIFBsYXl3cmlnaHQgc2NyaXB0cy4KCiMjIFN0YWNrCgp8IERvbWFpbiB8IFRvb2xzICYgdGVjaG5vbG9naWVzIHwKfCA6LS0tIHwgOi0tLSB8CnwgKipRdWFudGl0YXRpdmUgZmluYW5jZSAmIGRhdGEqKiB8IFB5dGhvbiAoYHBhbmRhc2AsIGBudW1weWAsIGB5ZmluYW5jZWAsIGBtYXRwbG90bGliYCksIGFkdmFuY2VkIGZpbmFuY2lhbCBFeGNlbCwgdmVjdG9yaXNlZCBiYWNrdGVzdGluZyB8CnwgKipBSSAmIHZpYmUgY29kaW5nKiogfCBDbGF1ZGUgQ29kZSwgR1N0YWNrLCBzdHJ1Y3R1cmVkIHByb21wdCBlbmdpbmVlcmluZywgR3JvcSAvIE1pc3RyYWwgLyBEZWVwU2VlayBBUElzIHwKfCAqKldlYiAmIGRlcGxveW1lbnQqKiB8IFJlYWN0LCBUeXBlU2NyaXB0LCBIVE1ML0NTUywgQ2xvdWRmbGFyZSBQYWdlcywgR2l0SHViIEFjdGlvbnMgQ0kvQ0QgfAp8ICoqU2NyYXBpbmcgJiBhdXRvbWF0aW9uKiogfCBNaWNyb3NvZnQgUGxheXdyaWdodCwgUHl0aG9uIHdlYiBzY3JhcGluZyB8CgojIyBXaGF0IEknbSBidWlsZGluZwoKPiDwn5qnIFRoZXNlIHJlcG9zaXRvcmllcyBhcmUgaW4gcHJvZ3Jlc3Mg4oCUIEkgcHVibGlzaCB0aGVtIGFzIHRoZXkgYmVjb21lIHJlYWwsIHdvcmtpbmcgY29kZSwgbm90IHBsYWNlaG9sZGVycy4KCnwgUHJvamVjdCB8IFdoYXQgaXQgZG9lcyB8IFN0YWNrIHwKfC0tLXwtLS18LS0tfAp8IFsqKmJhcmJlbGwtbWFjcm8tYmFja3Rlc3RlcioqXShodHRwczovL2dpdGh1Yi5jb20vdGltZW8tcnhsL2JhcmJlbGwtbWFjcm8tYmFja3Rlc3RlcikgfCBCYWNrdGVzdHMgdGhlIFByZXBhSW52ZXN0IEJhcmJlbGwgYWxsb2NhdGlvbiAoU2hpZWxkIC8gU3BlYXIpIG9uIHJlYWwgbWFya2V0IGRhdGEsIHdpdGggU2hhcnBlIHJhdGlvLCBtYXggZHJhd2Rvd24gYW5kIEJldGEgdnMuIFNQWSB8IFB5dGhvbiwgeWZpbmFuY2UsIHBhbmRhcyB8CnwgWyoqcmFsbHlvLW5leHVzLW12cCoqXShodHRwczovL2dpdGh1Yi5jb20vdGltZW8tcnhsL3JhbGx5by1uZXh1cy1tdnApIHwgTWF0Y2hpbmcgZW5naW5lICsgd2ViIHByb3RvdHlwZSBmb3IgUmFsbHlvOiBzdHVkZW50IHBvZHMgb2YgNOKAkzYsIGJvb2tlZCBvbnRvIE1vbnRyw6lhbCBzcG9ydHMgZmllbGRzIHwgUHl0aG9uLCBTdHJlYW1saXQgfAp8ICoqYXRzLXF1YW50LWpvYi1yYWRhcioqIHwgU2NhbnMgY2FyZWVyIHBvcnRhbHMgKGBncmVlbmhvdXNlLmlvYCwgYGxldmVyLmNvYCwgYGFzaGJ5aHEuY29tYCkgZm9yIHF1YW50ICYgQUkgaW50ZXJuc2hpcHMgYWltZWQgYXQgMXN0LzJuZC15ZWFyIHN0dWRlbnRzIChKYW5lIFN0cmVldCBGT0NVUywgQ2l0YWRlbCBEaXNjb3ZlciwgT3B0aXZlciwgQmlnIFRlY2gpIHwgUHl0aG9uLCBQbGF5d3JpZ2h0IHwKfCBbKip2YWx1YXRpb24tdG9vbGtpdCoqXShodHRwczovL2dpdGh1Yi5jb20vdGltZW8tcnhsL3ZhbHVhdGlvbi10b29sa2l0KSB8IEdlbmVyaWMgdmFsdWF0aW9uIHRvb2xraXQgZm9yIGFueSBsaXN0ZWQgY29tcGFueTogRENGLCB0cmFkaW5nIGNvbXBzLCBwcmVjZWRlbnQgdHJhbnNhY3Rpb25zLCBmb290YmFsbCBmaWVsZCwgYW5kIGtlZXAtdnMtc2VsbCBhbmFseXNpcyDigJQgTGFzc29uZGUgYXMgdGhlIHdvcmtlZCBleGFtcGxlIHwgUHl0aG9uLCBQeVlBTUwgfAoKIyMgQ3VycmVudGx5CgotIPCflK0gTGVhcm5pbmc6IHF1YW50aXRhdGl2ZSBmaW5hbmNlLCByZWluZm9yY2VtZW50IGxlYXJuaW5nLCBhZ2VudGljIEFJIHN5c3RlbXMKLSDwn4yxIEZvY3VzOiB0dXJuaW5nIG15IENUVEMgYW5kIE1JQlMgd29yayBpbnRvIGNsZWFuLCByZXByb2R1Y2libGUgY29kZQotIPCfjq8gU3VtbWVyIDIwMjc6IGxvb2tpbmcgZm9yIGludGVybnNoaXBzIGluIHF1YW50aXRhdGl2ZSBmaW5hbmNlLCBpbnZlc3RtZW50IHN0cmF0ZWd5IGFuZCBBSQoKIyMgQ29ubmVjdAoKLSDwn5K8IFtMaW5rZWRJbiDigJQgVGltw6lvIFJvdXhlbF0oaHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2luL3RpbWVvLXJvdXhlbCkKLSDinInvuI8gW3RpbWVvLnJvdXhlbEBoZWMuY2FdKG1haWx0bzp0aW1lby5yb3V4ZWxAaGVjLmNhKQotIPCfk40gTW9udHLDqWFsLCBRQywgQ2FuYWRhCg==
+# Hi, I'm Timéo Rouxel 👋
+
+**B.A.A. student @ HEC Montréal | Quantitative Finance, Macro Strategy & AI**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Timeo%20Rouxel-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timeo-rouxel)
+[![HEC Montréal](https://img.shields.io/badge/HEC%20Montr%C3%A9al-B.A.A.-C8102E)](https://www.hec.ca)
+[![Location](https://img.shields.io/badge/Montr%C3%A9al-QC-grey?logo=googlemaps&logoColor=white)](https://github.com/timeo-rxl)
+
+I study finance at HEC Montréal and build things with code and AI — portfolios, backtesters, and products that get students off their screens and onto the field.
+
+🇫🇷 Français — I work in French and in English.
+
+---
+
+## About me
+
+- 🎓 **B.A.A. @ HEC Montréal (2025–2029)** — first year, focused on market finance and investment strategy.
+- 📈 **Portfolio Analyst, PrepaInvest — CTTC 2026 semi-finalist.** I designed an asymmetric Barbell macro-tactical allocation: a defensive Shield (47% — `$VOO`, `$LLY`, `$LMT`) and an offensive Spear (53% — `$NVDA`, `$DELL`, `$WDC`, `$GEV`, `$CLSK`), with systematic / idiosyncratic Beta decomposition in the spirit of OTPP and Lasse Heje Pedersen (*Efficiently Inefficient*). Also +10.16% in the HEConomie market simulation.
+- 🚀 **Co-Founder & Product Lead, Rallyo (Nexus)** — 3rd place, 54H Start-Up. An AI-powered social orchestrator that matches students into groups of 4–6 and assigns them to underused municipal sports fields in Montréal.
+- 🏦 **Montreal Investment Banking Showcase (MIBS) 2026** — GMMR Investment Group.
+- 💼 Previously at **Smiile** (B2B SaaS) and **Porsche**.
+- 🤖 **AI & automation:** vibe coding with Claude Code, GStack, multi-agent orchestration, and Playwright scripts.
+
+## Stack
+
+| Domain | Tools & technologies |
+| :--- | :--- |
+| **Quantitative finance & data** | Python (`pandas`, `numpy`, `yfinance`, `matplotlib`), advanced financial Excel, vectorised backtesting |
+| **AI & vibe coding** | Claude Code, GStack, structured prompt engineering, Groq / Mistral / DeepSeek APIs |
+| **Web & deployment** | React, TypeScript, HTML/CSS, Cloudflare Pages, GitHub Actions CI/CD |
+| **Scraping & automation** | Microsoft Playwright, Python web scraping |
+
+## What I'm building
+
+> 🚧 These repositories are in progress — I publish them as they become real, working code, not placeholders.
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**barbell-macro-backtester**](https://github.com/timeo-rxl/barbell-macro-backtester) | Backtests the PrepaInvest Barbell allocation (Shield / Spear) on real market data, with Sharpe ratio, max drawdown and Beta vs. SPY | Python, yfinance, pandas |
+| [**rallyo-nexus-mvp**](https://github.com/timeo-rxl/rallyo-nexus-mvp) | Matching engine + web prototype for Rallyo: student pods of 4–6, booked onto Montréal sports fields | Python, Streamlit |
+| **ats-quant-job-radar** | Scans career portals (`greenhouse.io`, `lever.co`, `ashbyhq.com`) for quant & AI internships aimed at 1st/2nd-year students (Jane Street FOCUS, Citadel Discover, Optiver, Big Tech) | Python, Playwright |
+| [**valuation-toolkit**](https://github.com/timeo-rxl/valuation-toolkit) | Generic valuation toolkit for any listed company: DCF, trading comps, precedent transactions, football field, and keep-vs-sell analysis — Lassonde as the worked example | Python, PyYAML |
+
+## Currently
+
+- 🔭 Learning: quantitative finance, reinforcement learning, agentic AI systems
+- 🌱 Focus: turning my CTTC and MIBS work into clean, reproducible code
+- 🎯 Summer 2027: looking for internships in quantitative finance, investment strategy and AI
+
+## Connect
+
+- 💼 [LinkedIn — Timéo Rouxel](https://www.linkedin.com/in/timeo-rouxel)
+- ✉️ [timeo.rouxel@hec.ca](mailto:timeo.rouxel@hec.ca)
+- 📍 Montréal, QC, Canada
