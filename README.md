@@ -36,10 +36,10 @@ I study finance at HEC Montréal and build things with code and AI — portfolio
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**barbell-macro-backtester**](https://github.com/timeo-rxl/barbell-macro-backtester) | Backtests the PrepaInvest Barbell allocation (Shield / Spear) on real market data, with Sharpe ratio, max drawdown and Beta vs. SPY | Python, yfinance, pandas |
+| [**barbell-macro-backtester**](https://github.com/timeo-rxl/barbell-macro-backtester) | Backtests the PrepaInvest Barbell allocation (Shield / Spear) on real market data, with Sharpe ratio, max drawdown and Beta vs. SPY · [live demo](https://rk3bdkp5mpgddrd25qgnsr.streamlit.app/) | Python, yfinance, pandas |
 | [**rallyo-nexus-mvp**](https://github.com/timeo-rxl/rallyo-nexus-mvp) | Matching engine + web prototype for Rallyo: student pods of 4–6, booked onto Montréal sports fields · [live demo](https://rallyo-ucffapphfezeyntjoxtcqks.streamlit.app/) | Python, Streamlit |
 | [**ats-quant-job-radar**](https://github.com/timeo-rxl/ats-quant-job-radar) | Internship radar for 1st/2nd-year students: 31 finance, quant & tech programmes matched to your year, graduation date and work authorisation — no scraping, official links only · [live demo](https://timeo-rxl-ats-quant-job-radar-app-q25tit.streamlit.app) | Python, Streamlit |
-| [**valuation-toolkit**](https://github.com/timeo-rxl/valuation-toolkit) | Generic valuation toolkit for any listed company: DCF, trading comps, precedent transactions, football field, and keep-vs-sell analysis — Lassonde as the worked example | Python, PyYAML |
+| [**valuation-toolkit**](https://github.com/timeo-rxl/valuation-toolkit) | Generic valuation toolkit for any listed company: DCF, trading comps, precedent transactions, football field, and keep-vs-sell analysis — Lassonde as the worked example · [live demo](https://u3udvbzzvnqcrdbjdqwamz.streamlit.app/) | Python, PyYAML |
 
 ## Currently
 
