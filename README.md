@@ -52,3 +52,5 @@ I study finance at HEC Montréal and build things with code and AI — portfolio
 - 💼 [LinkedIn — Timéo Rouxel](https://www.linkedin.com/in/timeo-rouxel)
 - ✉️ [timeo.rouxel@hec.ca](mailto:timeo.rouxel@hec.ca)
 - 📍 Montréal, QC, Canada
+
+- 🤗 [Hugging Face — timeo-rxl](https://huggingface.co/timeo-rxl)
