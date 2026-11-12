@@ -38,7 +38,7 @@ I study finance at HEC Montréal and build things with code and AI — portfolio
 |---|---|---|
 | [**barbell-macro-backtester**](https://github.com/timeo-rxl/barbell-macro-backtester) | Backtests the PrepaInvest Barbell allocation (Shield / Spear) on real market data, with Sharpe ratio, max drawdown and Beta vs. SPY · [live demo](https://rk3bdkp5mpgddrd25qgnsr.streamlit.app/) | Python, yfinance, pandas |
 | [**rallyo-nexus-mvp**](https://github.com/timeo-rxl/rallyo-nexus-mvp) | Matching engine + web app for Rallyo: student pods of 4–6, booked onto Montréal sports fields · [live demo](https://rallyo-montreal.lovable.app) | React, TypeScript |
-| [**ats-quant-job-radar**](https://github.com/timeo-rxl/ats-quant-job-radar) | Internship radar for 1st/2nd-year students: 31 finance, quant & tech programmes matched to your year, graduation date and work authorisation — no scraping, official links only · [live demo](https://timeo-rxl-ats-quant-job-radar-app-q25tit.streamlit.app) | Python, Streamlit |
+| [**ats-quant-job-radar**](https://github.com/timeo-rxl/ats-quant-job-radar) | **StageScope** — internship radar for 1st/2nd-year students: 31 finance, quant & tech programmes scored 0–100 against your profile, with an interactive employer-logo band and bilingual FR/EN interface — no scraping, official links only · [live demo](https://stagescope.lovable.app) | React, TypeScript |
 | [**valuation-toolkit**](https://github.com/timeo-rxl/valuation-toolkit) | Generic valuation toolkit for any listed company: DCF, trading comps, precedent transactions, football field, and keep-vs-sell analysis — Lassonde as the worked example · [live demo](https://u3udvbzzvnqcrdbjdqwamz.streamlit.app/) | Python, PyYAML |
 
 ## Currently
